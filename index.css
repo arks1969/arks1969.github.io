@@ -1,0 +1,63 @@
+header {
+  background-image: url("SummerSonic2014.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 400px;
+}
+
+
+div#logo img {
+  border: 5px solid #fff;
+  border-radius: 20%;
+}
+
+nav {
+  margin: 0 0 30px 0;
+  padding: 10px 0;
+  text-align: center;
+  background: #fff;
+}
+
+nav ul li {
+  margin: 0 20px;
+  display: inline-block;
+}
+
+nav ul li a {
+    padding: 15px 10px;
+    text-decoration: none;
+    color: #191;
+    font-weight: bold;
+}
+
+nav ul li a.selected {
+  color: #3d3;
+}
+
+section {
+  margin: 0 0 30px 0;
+  padding: 10px 0;
+  text-align: center;
+  background: #fff;
+}
+
+section ul li {
+  margin: 0 100px;
+  display: inline-block;
+}
+
+section ul li a {
+    padding: 15px 10px;
+    text-decoration: none;
+    color: #191;
+    font-weight: bold;
+}
+
+footer {
+  padding: 20px 0;
+  font-size: 93%;
+  text-align: center;
+  background-color: #6f9;
+  color: #666;
+}
